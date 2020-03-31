@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LPZ 3</string>
+
+    <string-array name="color_name">
+        <item>Красный</item>
+        <item>Оранжевий</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Черный</item>
+        <item>Синий</item>
+        <item>Фиолетовый</item>
+    </string-array>
+
+</resources>
